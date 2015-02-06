@@ -1,4 +1,4 @@
-package com.master.datasource.dao;
+package com.master.data.datasource.dao;
 
 public class DaoFactory {
 
